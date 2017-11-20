@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Notification Option</title>
 </head>
 <body>
+
+
 
    <h1>Welcome to MyNearShop</h1>
 
