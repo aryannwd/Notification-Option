@@ -5,7 +5,7 @@
 </head>
 <body>
    
-	<?php  require('home.php'); ?>
+	<?php  include('home.php'); ?>
 </body>
 </html>
 
