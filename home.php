@@ -10,7 +10,7 @@
 <a href="#"  id="notificationButton" class="button"><button>Notification</button></a>
 
 <script type="text/javascript">
-
+// Using array for multiple notications for different different products
   var products = [
 ["Neem Oil 500 ml.","https://mynearshop.com/index.php?path=product/store"],
 ["Vermicompost 10 kg.","https://mynearshop.com/index.php?path=product/store"],
