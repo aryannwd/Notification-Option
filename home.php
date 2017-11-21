@@ -31,7 +31,7 @@ var title=products[x][0];
 var desc='Most popular Product.';
 var url=products[x][1];
 notifyMe(title,desc,url);
-}, 20000);
+}, 20000); // Time is milliseconds 
   
   // requesting permission on page load
 document.addEventListener('DOMContentLoaded', function () 
