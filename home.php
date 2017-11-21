@@ -30,7 +30,7 @@ var x = Math.floor((Math.random() * 10) + 1);
 var title=products[x][0];
 var desc='Most popular Product.';
 var url=products[x][1];
-notifyBrowser(title,desc,url);
+notifyMe(title,desc,url);
 }, 20000);
   
   // requesting permission on page load
